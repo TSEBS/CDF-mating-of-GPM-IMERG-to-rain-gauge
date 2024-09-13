@@ -1,0 +1,2 @@
+This code was used to adjust the cumulative distribution curve of GPM-IMERG to that of rain gauge. The hourly GPM-IMERG data was stored in hrain1 mat file. The hourly rain gauge data was stored in hrain0 mat file. Each column of hrain0 and hrian1 represent one gauge site. The CDF calibrated hourly GPM-IMERG data was stored in hrain2 variable.
+Any questions, please contact Prof. Xuelong CHen at x.chen@itpcas.ac.cn
